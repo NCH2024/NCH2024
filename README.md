@@ -1,9 +1,7 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
+<!-- <img align="right" width="64" src="https://github.com/TienNHM.png" /> -->
 <h2 align="center">Hi 👋, I'm Nguyễn Chánh Hiệp [NCH2024]</h2>
 <p align="center">
+  <img src="https://img.icons8.com/color/48/vietnam-circular.png" />
   <h3 align="center">I'm from Vietnam 🇻🇳 </h3>
 </p>
 
@@ -11,8 +9,8 @@
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
+<!-- [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square) -->
 
 ## 📫 How to reach me:
 
