@@ -2,7 +2,7 @@
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm NCH2024</h2>
+<h2 align="center">Hi 👋, I'm Nguyễn Chánh Hiệp [NCH2024]</h2>
 <p align="center">
   <h3 align="center">I'm from Vietnam 🇻🇳 </h3>
 </p>
