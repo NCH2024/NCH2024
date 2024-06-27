@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.wattpad.com/4cfdd20425f5912e8e2acd2ece09470aa0f3fdd8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f49417036764a566f4f505a7151673d3d2d3331322e313466633764653764313565393665323537363831313431383933322e676966"  />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://genk.mediacdn.vn/2018/8/30/maxresdefault-15356162526071645180468.jpg" heightheight="100"/>
 
 ###
