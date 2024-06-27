@@ -46,7 +46,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://fptshop.com.vn/uploads/images/tin-tuc/177700/Originals/spy-x-family-spy-family.gif" alt="dev" width="150%"/>
+        <img src="https://fptshop.com.vn/uploads/images/tin-tuc/177700/Originals/spy-x-family-spy-family.gif" alt="dev" width="90%"/>
       </p>
     </td>
   </tr>
