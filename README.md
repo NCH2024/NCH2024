@@ -4,6 +4,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NCH2024.NCH2024&right_color=bisque"  />
+</div>
+
+###
+
 <h2 align="center">Hi there! It's been a long time since we last met!</h2>
 
 ###
@@ -40,11 +48,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCH2024/NCH2024/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCH2024/NCH2024/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NCH2024/NCH2024/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/NCH2024/NCH2024/output/snake.svg" alt="Snake animation" />
 
 ###
 
